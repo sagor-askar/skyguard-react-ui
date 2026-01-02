@@ -1,16 +1,24 @@
-# React + Vite
+# SkyGuard - Drone & Security Services UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **custom, professional UI** built from scratch using **React + Vite** for a **Drone and Security Service Provider**. Designed to showcase services, operations, and brand identity with a clean, scalable, and modern architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- **Fully Responsive Design** – Works seamlessly on desktop, tablet, and mobile.  
+- **Component-Based Architecture** – Reusable components for maintainability and scalability.  
+- **Modern UI/UX** – Clean layout, intuitive navigation, and professional styling.  
+- **Planned for Real-World Workflow** – Designed to represent a complete drone and security service platform.  
+- **Fast and Lightweight** – Built with **Vite** for blazing-fast development and performance.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎨 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – Component-based front-end framework  
+- **Vite** – Blazing-fast build tool for development and production  
+- **CSS / SCSS / Tailwind** – For responsive and modern styling  
+- **Optional Libraries** – React Router for navigation, Framer Motion for animations, recharts for statistics visualization  
+
+---
