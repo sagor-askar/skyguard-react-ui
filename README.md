@@ -18,7 +18,6 @@ A **custom, professional UI** built from scratch using **React + Vite** for a **
 
 - **React** – Component-based front-end framework  
 - **Vite** – Blazing-fast build tool for development and production  
-- **CSS / SCSS / Tailwind** – For responsive and modern styling  
-- **Optional Libraries** – React Router for navigation, Framer Motion for animations, recharts for statistics visualization  
+- **CSS** – For responsive and modern styling  
 
 ---
